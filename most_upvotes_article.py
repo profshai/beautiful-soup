@@ -1,4 +1,5 @@
 ############## Scraping Hacker News from https://news.ycombinator.com/news #########
+# I want to scraped the most upvoted news of the week using beautiful soup in Python
 # We want to get hold of the article with the most upvotes
 from bs4 import BeautifulSoup
 import requests
